@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Aashir</h1>
 <h3 align="center">Full Stack Developer | AI Engineer | Tech Innovator</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syed-aashir-6a1423198&label=Profile%20views&color=0e75b6&style=flat" alt="syed-aashir" />
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/syed-aashir-6a1423198" target="_blank">
@@ -45,6 +43,11 @@
 
 <ul>
   <li><strong>AI Learning Assistant</strong></li>
+  <li><strong>AI Resume Screening System</strong></li>
+  <li><strong>AI Chat Support Bot for SaaS Products</strong></li>
+  <li><strong>Intelligent Document Analysis Platform</strong></li>
+  <li><strong>Predictive Maintenance Dashboard</strong></li>
+  <li><strong>SaaS CRM with AI Lead Scoring</strong></li>
   <li><strong>Real-estate Leasing Portal</strong></li>
   <li><strong>Discover Burjuman Mall</strong></li>
   <li><strong>PodZ Surface Mobile Application</strong></li>
@@ -52,7 +55,7 @@
   <li><strong>Multi-vendor & Fintech Applications</strong></li>
   <li><strong>Smart Home Automation System</strong> — using IoT and Machine Learning</li>
   <li><strong>Omnicomm Profi Fuel Sensor</strong> (IoT-based integration)</li>
-  <li><strong>Ecommerce Web Application</strong></li>
+  <li><strong>Health & Fitness Tracker with AI Coaching</strong></li>
 </ul>
 
 ---
