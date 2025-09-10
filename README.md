@@ -63,7 +63,7 @@
 ## 🤝 Let's Connect
 
 - 🌐 [Portfolio](http://aashir.info)
-- 💼 [LinkedIn](https://www.linkedin.com/in/syed-aashir-6a1423198/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/syedaashir120/)
 - 📬 [Email Me](mailto:syedaashir120@gmail.com)
 
 ---
