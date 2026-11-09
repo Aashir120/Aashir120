@@ -10,7 +10,7 @@
   <a href="mailto:syedaashir120@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="email" />
   </a>
-  <a href="[http://aashir.info/](https://aashirportfolio.netlify.app/)" target="_blank">
+  <a href="https://aashirportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-aashir.info-0A66C2?style=flat-square&logo=vercel" alt="website" />
   </a>
 </p>
