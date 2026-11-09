@@ -10,7 +10,7 @@
   <a href="mailto:syedaashir120@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="email" />
   </a>
-  <a href="http://aashir.info/" target="_blank">
+  <a href="[http://aashir.info/](https://aashirportfolio.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-aashir.info-0A66C2?style=flat-square&logo=vercel" alt="website" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 💻 I’m a **Full Stack Developer and AI Engineer** with a strong background in scalable system architecture and intelligent applications.  
-🌍 Working remotely with companies in **USA & Canada**.  
+🌍 Working remotely with companies in **USA & EU**.  
 🧠 Currently focused on **AI-powered SaaS systems**, real-time apps, and **developer tooling**.
 
 - 🔭 Working on: Smart Chatbots, Developer Tools, and RAG Systems
@@ -62,7 +62,7 @@
 
 ## 🤝 Let's Connect
 
-- 🌐 [Portfolio](http://aashir.info)
+- 🌐 [Portfolio](https://aashirportfolio.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/syedaashir120/)
 - 📬 [Email Me](mailto:syedaashir120@gmail.com)
 
